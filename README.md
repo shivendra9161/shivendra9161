@@ -3,9 +3,11 @@
  I'm Shivendra Kumar Tripathi
  <img src='https://media.giphy.com/media/l0Iyk1HsfD3mMkiEE/giphy.gif' width="35"/>
  </h1>
+ 
 <h3 align="center"> Web Developer</h3>
 
 - 🌱 I’m currently learning Web Development
+- 🌱 I'm presuing Bachelor's Of Engineering from CHANDIGARH UNIVERSITY
 
 - 💬 Ask me about HTML,CSS, JavaScript
 - Want to apply what I have learned to build something that'll help people.

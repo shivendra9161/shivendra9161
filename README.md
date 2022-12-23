@@ -13,7 +13,7 @@
 - Want to apply what I have learned to build something that'll help people.
 
 - 📫 How to reach me shivendratripathi09@gmail.com
-<!-- - 📫 Portfolio https://devendra0192.github.io -->
+- 📫 Portfolio https://shivendraportfolio.netlify.app/
 
 <h3 align="left"><i>Connect with me via:</i></h3>
 <p align="left">

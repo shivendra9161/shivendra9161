@@ -10,7 +10,7 @@
 - 💬 Ask me about HTML,CSS, JavaScript
 - Want to apply what I have learned to build something that'll help people.
 
-- 📫 How to reach me dk.devendra9161@gmail.com
+- 📫 How to reach me shivendratripathi09@gmail.com
 <!-- - 📫 Portfolio https://devendra0192.github.io -->
 
 <h3 align="left"><i>Connect with me via:</i></h3>
@@ -25,6 +25,6 @@
 <h2><i>GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devendra0192&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra0192&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivendra9161&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivendra9161&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
 </p>
